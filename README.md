@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Best.</h1>
+<h2 align="left">Hi 👋, I'm Best.</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
